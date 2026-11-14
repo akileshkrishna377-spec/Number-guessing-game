@@ -1,13 +1,3 @@
-NUMBER GUESSING GAME - FLASK PROJECT
-
-Files:
-- app.py
-- templates/index.html
-- static/style.css
-
-Requirements:
-- Python 3
-- Flask
 
 Run:
 1. Open this folder in VS Code.
